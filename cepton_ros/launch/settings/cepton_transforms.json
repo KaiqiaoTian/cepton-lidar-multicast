@@ -1,0 +1,8 @@
+{
+  "0": {
+    "frame_id": "cepton_0",
+    "topic_name": "points",
+    "translation": [0.0, 0.0, 0.0],
+    "rotation": [0.0, 0.0, 0.0]
+  }
+}
